@@ -12,9 +12,16 @@ As previously mentioned, I primarily worked with Guest Services and assisted my 
 
 1. Premium Seating Pricing Sheet
 --------------------------
+<img width="1545" height="1999" alt="Actual Pricing Flyer" src="https://github.com/user-attachments/assets/a88b1d42-62cb-4313-88c3-0116f806f791" />
+
+
 
 2. South Club Marketing Sheet
 --------------------------
 
+<img width="1414" height="2000" alt="New Idea" src="https://github.com/user-attachments/assets/07a2d4a3-8d4c-42b5-840d-4a65dafff6a6" />
+
 3. Premium Seating In-Event Sheet
 --------------------------
+<img width="1414" height="2000" alt="South Club Flyer" src="https://github.com/user-attachments/assets/b7b27cf3-71c8-4622-bf7d-279c5c7ec2ac" />
+
