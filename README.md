@@ -1,10 +1,11 @@
-# Marketing Internship
+# Akins Ford Arena Marketing Internship Work
 During the spring semester of my junior year, I had the opportunity to work as the Front of House intern at the Akins Ford Arena. In this role, I collaborated with the Guest Service Manager and the Premium Seating manager in which I was able to help out in creating promotional materials and marketing campaigns. This gave me the opportunity to tap into my creative side, while also helping out the business to sell more premium seats. 
 
 **Tools Used**
 --------------------------
 - Canva
 - Claude
+- Microsoft Office
 
 **The Process**
 --------------------------
@@ -31,6 +32,5 @@ During my time at the Akins Ford Arena, I noticed that the South Club had a shee
 <p align="center">
 <img width="452.1" height="600" alt="Suiteholder Template" src="https://github.com/user-attachments/assets/b06bbba9-33bb-4531-b510-add6758d59ed" /> 
 <img width="452.1" height="600" alt="South Club Flyer" src="https://github.com/user-attachments/assets/b7b27cf3-71c8-4622-bf7d-279c5c7ec2ac" />
-
 
 
