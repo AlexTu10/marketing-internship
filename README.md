@@ -9,11 +9,11 @@ During the spring semester of my junior year, I had the opportunity to work as t
 
 **Context**
 --------------------------
-As previously mentioned, I primarily worked with Guest Services and assisted my manager in making sure that the events were running smoothly and guests were enjoying the show. Additionally, I helped out with the marketing team, specifically collaborating with the Premium Seating manager, and helped her build promotional materials that could help attract new guests and retain guests. The main problem that they were running into was that they wanted to communicate the value of the premium seats more effectively while also improving South Club seating sales. With that in mind, the materials were completed in collaboration with the Premium Seating Manager and are anticipated to be used for the next wave of concerts and hockey games starting in September. 
+As previously mentioned, I primarily worked with Guest Services and assisted my manager in making sure that the events were running smoothly and guests were enjoying the show. Additionally, I helped out with the marketing team, specifically collaborating with the Premium Seating manager, and helped her build promotional materials that could help attract new guests and retain guests. I understood the importance of this because premium seating is one of the highest-margin products in the arena, making it a massive priority in the arena's business objectives. This means that attracting and retaining clients will be fundamental to the success of the arena. After talking with her at the beginning of the internship, I was able to understand what were the biggest needs for the department. Overall, she needed to update/create new promotional materials for new and existing clients to improve the overall premium experience that comes with the arena. This could be done by creating a pricing sheet that removes friction in the client acquisition process, displaying the environment and feel of the South Club lounge so that its value is properly communicated, or incorporating an personalized feel to the suites with the addition of a welcome sheet, all of which would help increase the overall value of premium seating at the arena. With that in mind, I have completed a collection of materials that were completed in collaboration with the Premium Seating Manager and are anticipated to be used for the next wave of concerts and hockey games starting in September. 
 
 Premium Seating Pricing Sheet
 --------------------------
-One of the materials that needed to be updated was the pricing flyer for the premium seating areas. It is one of their most common questions that gets asked and they want to have a one-pager that details all the prices for all the sections. Using the information that was provided from the previous pricing sheet, I was able to create a sheet that had all the information needed to give the clients a better idea of how much the packaged deals were going to be while also giving them some key amenities for each area. 
+One of the materials that needed to be updated was the pricing flyer for the premium seating areas. It is one of their most common questions that gets asked and they want to have a one-pager that details all the prices for all the sections. Using the information that was provided from the previous pricing sheet, I was able to create a sheet that had all the information needed to give the clients a better idea of how much the packaged deals were going to be while also giving them some key amenities for each area. This is important because it allows my manager to easily have the pricing information all organized in one sheet so that the client can easily digest it and make a better informed decision. This clear communication reduces friction in the client acquisition process and provides goodwill as we are being transparent with the pricing. 
 
 <p align="center">
 <img width="753.5" height="1000" alt="Actual Pricing Flyer" src="https://github.com/user-attachments/assets/a88b1d42-62cb-4313-88c3-0116f806f791" />
@@ -29,8 +29,17 @@ Premium Seating In-Event Sheet
 --------------------------
 During my time at the Akins Ford Arena, I noticed that the South Club had a sheet that had more information about the area and someone to contact, in case they wanted to know more or need assistance. The issue was, it did not have a design and it only had a header with text underneath. I decided to revamp the sheet and keep the same minimalist feel to it, so that it can be easily printed without using up too much ink. They also wanted to include a one-pager welcome sheet for suite holders, so that the suite holders can be greeted at each event, know who will be their attendant for the night, and have the manager's phone number in case they need further assistance. All this is an effort to retain the guests and have a more exclusive feel to the premium seating areas. 
 
+----
+
+<p align="center">
+Suite Holders In-Event Welcome Sheet
 <p align="center">
 <img width="753.5" height="1000" alt="Suiteholder Template" src="https://github.com/user-attachments/assets/b06bbba9-33bb-4531-b510-add6758d59ed" /> 
+
+<p align="center">  
+South Club In-Event Sheet
+<p align="center">  
 <img width="753.5" height="1000" alt="South Club Flyer" src="https://github.com/user-attachments/assets/b7b27cf3-71c8-4622-bf7d-279c5c7ec2ac" />
+
 
 
